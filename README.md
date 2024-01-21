@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">I'm a Highly skilled and accomplished Senior Software Engineer with extensive expertise in Full Stack Development, Agile Methodologies, and proven proficiency in Team Leadership. Feel free to check out some of the public projects here that I've done for fun.</h3>
+<h3 align="center">I'm a Highly skilled and accomplished Senior Software Engineer with extensive expertise in Full Stack Development, Agile Methodologies, and proven proficiency in Team Leadership. Please feel free to check out some of the public projects I've done here for fun.</h3>
 
 <p align="left">
 </p>
